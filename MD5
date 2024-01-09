@@ -1,7 +1,7 @@
-bfb6ee9b902fc8baab1c204bc9fdcdd8 *DESCRIPTION
+e34e695afedb14883d77b090c7e966a0 *DESCRIPTION
 ef0e881e952409ec1989c99c48591d89 *LICENSE
 d72c53386073699a8d9a455b41fcdb2b *NAMESPACE
-d59ac26d23dcad11b717998db073861a *NEWS.md
+5e53fca7633d505e0d5fe20d4047dc5c *NEWS.md
 62463cc142e6ee796a24859ae6cef0ae *R/callback.R
 66952e8cd2367c47eac903bfa10b5be9 *R/cpp11.R
 ca7a91c1dfb1503e7f71223990f0d377 *R/date-symbols.R
@@ -66,7 +66,7 @@ eea1893f813b05fbe0de1978472cb87c *src/connection.cpp
 4d8da21a219acc0e0098b101a90a65d7 *src/cpp11.cpp
 e2a59af967b5fa630c6d8eda31162305 *src/mio.h
 7207d68ec63a0618273b1a4eb2586f88 *src/read.cpp
-b3b0fa61c2e3f6ebcf0521608d5722ae *src/unicode_fopen.h
+f675245a4ae6615793764ec0aa900bd8 *src/unicode_fopen.h
 71ca53f097e5c0e9a1d63a9dd7f7e851 *src/utils.h
 fc853802d5121a36e00df7789a91d186 *tests/testthat.R
 2686557b47e277b9177c830ce874eb22 *tests/testthat/basic-df-singlequote.csv

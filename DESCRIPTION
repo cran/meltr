@@ -1,6 +1,6 @@
 Package: meltr
 Title: Read Non-Rectangular Text Data
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: 
     c(person(given = "Hadley",
              family = "Wickham",
@@ -35,9 +35,8 @@ Config/testthat/edition: 3
 Config/Needs/website: dplyr
 Encoding: UTF-8
 RoxygenNote: 7.2.1
-SystemRequirements: C++11
 NeedsCompilation: yes
-Packaged: 2022-09-10 19:38:34 UTC; nacnudus
+Packaged: 2024-01-08 22:01:21 UTC; nacnudus
 Author: Hadley Wickham [aut],
   Duncan Garmonsway [aut, cre] (@nacnudus),
   Jim Hester [aut] (<https://orcid.org/0000-0002-2739-7082>),
@@ -45,4 +44,4 @@ Author: Hadley Wickham [aut],
   https://github.com/mandreyel/ [cph] (mio library)
 Maintainer: Duncan Garmonsway <nacnudus@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-09-10 19:52:53 UTC
+Date/Publication: 2024-01-09 02:30:02 UTC
